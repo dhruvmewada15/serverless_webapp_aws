@@ -1,6 +1,6 @@
 # Serverless Web Application using AWS
 
-### A serverless webapplication hosted on S3 for CRUD Operations which allows users to retrieve and insert data to Employee Table. On creation of a new employee, an E-Mail would be sent using the SES. Lambda Functions were used to for the logic and API Gateway was used for exposing the APIs.
+### A serverless webapplication hosted on S3 for CRUD Operations which allows users to retrieve and insert data to Employee Table. On creation of a new employee, an E-Mail would be sent using the SES. Lambda Functions were used to for the logic and API Gateway was used for exposing the APIs.(Free Tier)
 
 #### Technology Used : API Gateway, S3, Lambda, DynamoDB, SES.
 
