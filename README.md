@@ -9,3 +9,7 @@
 
 # GET Method Page
 ![image](https://user-images.githubusercontent.com/26231966/95588786-7bcbee80-0a61-11eb-9d6d-ee6abee6a6ce.png)
+
+# Email
+![image](https://user-images.githubusercontent.com/26231966/95593266-17ac2900-0a67-11eb-86bb-c3b6bcaacf2b.png)
+
